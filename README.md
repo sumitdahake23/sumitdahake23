@@ -65,7 +65,7 @@ Here's a snapshot of my technical toolkit:
 ### Education
 
 * **PG Diploma In Advanced Computing (PG-DAC)**
-    * Centre for Development of Advanced Computing (C-DAC), Pune | Feb 2022 - Aug 2024
+    * Centre for Development of Advanced Computing (C-DAC), Pune | Feb 2025 - Aug 2025
 * **Master of Computer Application (MCA)**
     * Shri Ramdeobaba College of Engineering and Management, Nagpur | Sep 2022 - June 2024
 * **Bachelor of Vocational (Software Development)**
